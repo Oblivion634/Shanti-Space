@@ -2,7 +2,7 @@
 ShantiSpace is a full-stack platform designed to promote mental well-being, combining both front-end and back-end technologies to provide a comprehensive mental health management experience. It includes guided meditation, therapy resources, AI-based screening, music playlists, community support, and more.
 
 # Features
-Front-End:
+# Front-End:
 
 Guided Meditation: Breathing exercises, meditation sounds, and timer for mindfulness.
 
